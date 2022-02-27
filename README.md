@@ -1,3 +1,5 @@
+![Star](https://user-images.githubusercontent.com/65300791/155877417-7d735dc0-0fe0-4ca2-8164-4d9cdbec8678.gif)
+
 Welcome to the official website of STAR UIET , Panjab University, Chandigarh. Know more.
 
 it has 5 tabs
